@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../workspace-spring-tool-suite-4-4.19.1.RELEASE/project-management"
+		},
+		{
+			"name": "bibliotheque",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
