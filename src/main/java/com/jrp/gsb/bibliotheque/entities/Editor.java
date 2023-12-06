@@ -1,4 +1,4 @@
-package com.jrp.gsb.entities;
+package com.jrp.gsb.bibliotheque.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
